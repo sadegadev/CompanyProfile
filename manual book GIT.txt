@@ -1,0 +1,29 @@
+Manual Book GIT
+
+Creat
+- git init (untuk install git didalam project)
+- git clone
+
+Make a change
+- git add <masukan nama file atau nama directorynya disini>
+- git add . 
+- git commit -m "masukan komen disini"
+- git reset <masukan nama file disini>
+- git reser --hard
+
+observe
+- git status
+- git diff
+- git show
+- git log
+
+sync
+- git push
+- git pull
+- git fetch
+
+Branch
+- git branch
+- git checkout
+- git merge
+- git ta
